@@ -33,7 +33,7 @@ Power BI, Excel, SQL
 
 ## Screenshots
 
-C:\Users\suyas\OneDrive\Pictures\Screenshots\dashboard.png
+https://github.com/Suyash1035/Meta-Ad-Performance-Cockpit/blob/main/dashboard.png
 
 
 ## Deployment
