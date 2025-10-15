@@ -1,3 +1,5 @@
+![App Demo](https://github.com/Suyash1035/Meta-Ad-Performance-Cockpit/blob/main/dashboard.png)
+
 # Meta-Ad-Performance-Cockpit
 
 Key KPIs and insights (216K impressions, 25.4K clicks, CTR 11.76%, 1.3K purchases, conversion & purchase rates, best ad types: Video & Stories, audience: females 18–30, timing: afternoons/evenings). Action: conversion optimization
@@ -30,10 +32,6 @@ git add C:\Users\suyas\OneDrive\Pictures\Screenshots\dashboard.png git commit -m
 ## 🛠 Skills
 Power BI, Excel, SQL
 
-
-## Screenshots
-
-https://github.com/Suyash1035/Meta-Ad-Performance-Cockpit/blob/main/dashboard.png
 
 
 ## Deployment
