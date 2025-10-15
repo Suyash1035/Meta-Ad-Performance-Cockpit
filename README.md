@@ -29,6 +29,11 @@ Issues, tasks & roadmap (open as GitHub Issues)
 
 *dashboard: Power BI file / exported visuals
 
+git add C:\Users\suyas\OneDrive\Pictures\Screenshots\dashboard.png
+git commit -m "Add Meta dashboard screenshot"
+git push origin main
+
+
 *analysis: run cohort / retention or LTV analysis for purchasers
 
 *optimization: plan AB tests for landing pages and retargeting flows
