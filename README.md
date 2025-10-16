@@ -29,8 +29,54 @@ git add C:\Users\suyas\OneDrive\Pictures\Screenshots\dashboard.png git commit -m
 *optimization: plan AB tests for landing pages and retargeting flows
 
 *docs: write methodology & assumptions
-## 🛠 Skills
+
+## 🛠 Skills & Tools
 Power BI, Excel, SQL
+
+<!-- Badges -->
+![Power BI](https://img.shields.io/badge/Power%20BI-79%25-F2C811)
+![SQL](https://img.shields.io/badge/SQL-10%25-00758F)
+![Excel](https://img.shields.io/badge/Excel-10%25-217346)
+![Other](https://img.shields.io/badge/Other-1%25-lightgrey)
+
+---
+
+## Visual breakdown
+
+**Power BI — 79%**  
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 79%
+
+**SQL — 10%**  
+🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
+
+**Excel — 10%**  
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
+
+**Other — 1%**  
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1%
+
+---
+
+## Breakdown table
+
+| Tool     | Share |
+|---------:|------:|
+| Power BI | 79%   |
+| SQL      | 10%   |
+| Excel    | 10%   |
+| Other    | 1%    |
+
+---
+
+<details>
+<summary>How to update these numbers</summary>
+
+1. Edit the percentages in this `README.md` file.
+2. Commit and push:
+```bash
+git add README.md
+git commit -m "Update skills percentages"
+git push
 
 
 
