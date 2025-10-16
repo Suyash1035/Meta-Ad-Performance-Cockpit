@@ -39,6 +39,14 @@ Power BI, Excel, SQL
 ![Excel](https://img.shields.io/badge/Excel-10%25-217346)
 ![Other](https://img.shields.io/badge/Other-1%25-lightgrey)
 
+<details>
+<summary>Languages used (click to expand)</summary>
+
+- **JavaScript** — 66.9%  
+- **HTML** — 33.1%
+
+</details>
+
 ---
 
 ## Visual breakdown
@@ -55,18 +63,6 @@ Power BI, Excel, SQL
 **Other — 1%**  
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1%
 
----
-
-## Breakdown table
-
-| Tool     | Share |
-|---------:|------:|
-| Power BI | 79%   |
-| SQL      | 10%   |
-| Excel    | 10%   |
-| Other    | 1%    |
-
----
 
 <details>
 <summary>How to update these numbers</summary>
