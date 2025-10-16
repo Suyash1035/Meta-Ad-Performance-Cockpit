@@ -39,15 +39,6 @@ Power BI, Excel, SQL
 ![Excel](https://img.shields.io/badge/Excel-10%25-217346)
 ![Other](https://img.shields.io/badge/Other-1%25-lightgrey)
 
-<details>
-<summary>Languages used (click to expand)</summary>
-
-- **JavaScript** — 66.9%  
-- **HTML** — 33.1%
-
-</details>
-
----
 
 ## Visual breakdown
 
