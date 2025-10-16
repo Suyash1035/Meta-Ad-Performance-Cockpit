@@ -40,30 +40,5 @@ Power BI, Excel, SQL
 ![Other](https://img.shields.io/badge/Other-1%25-lightgrey)
 
 
-## Visual breakdown
-
-**Power BI — 79%**  
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 79%
-
-**SQL — 10%**  
-🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
-
-**Excel — 10%**  
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%
-
-**Other — 1%**  
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1%
-
-
-<details>
-<summary>How to update these numbers</summary>
-
-1. Edit the percentages in this `README.md` file.
-2. Commit and push:
-```bash
-git add README.md
-git commit -m "Update skills percentages"
-git push
-
 
 
